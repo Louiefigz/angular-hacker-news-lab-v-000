@@ -1,5 +1,5 @@
-function TopController(){
-
+function TopController(stories){
+debugger;
 }
 
 angular
